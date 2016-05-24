@@ -78,7 +78,7 @@ Pour plus de données ouvertes/For more open data:
     * Détails: Shapefile (dossier) Stations d'échantillonage QUALO/ QUALO sampling stations
     * Source : Ville de Montréal
     * Plus d’info : http://donnees.ville.montreal.qc.ca/dataset/rsma-points-d-echantillonnage-qualo
-  3. *stationsRUISSO – Stations d'échantillonage RUISSO*
+  3. *stationsRUISSO.csv*
     * Détails: Stations d'échantillonage RUISSO (csv) / RUISSO sampling stations
     * Source : Ville de Montréal
     * Plus d’info : http://donnees.ville.montreal.qc.ca/dataset/rsma-points-d-echantillonnage-ruisso
