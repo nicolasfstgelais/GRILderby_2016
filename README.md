@@ -1,4 +1,4 @@
-# DataDerby2016 
+# GRIL Data Derby2016 
 
 ### A) Bases de données
   1. *DB_fish.csv*
