@@ -1,5 +1,4 @@
 # GRIL Data Derby2016 
-
 ### A) Bases de données
   1. *DB_fish.csv*
     * Détails: Presence/absence poisson/fish St-Laurent
