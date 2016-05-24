@@ -21,7 +21,7 @@
     * Durée: 2003-2014
     * Source : Ville de Montréal
     * Plus d’info : 
-  5. *DB_waterLevel_LaPrairie.csv & *DB_waterLevel_PointeClaire.csv* 
+  5. *DB_waterLevel_LaPrairie.csv & DB_waterLevel_PointeClaire.csv* 
     * Détails:  water level (m)
     * Frequency: Daily
     * Durée: 1967-2015
