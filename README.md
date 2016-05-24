@@ -1,16 +1,16 @@
 # GRIL Data Derby2016 
-### A) Bases de données
+### A) Bases de données/ Databases
   1. *DB_fish.csv*
     * Détails: Presence/absence poisson/fish St-Laurent
     * Source : Réseau de suivi ichtyologique (PASL) - Poissons d'eau douce
     * Plus d’info :https://ogsl.ca/fr/biodiversite/poissons/mffp/sommaire.html
   2. *DB_ crawfish.csv*
     * Détails: Abondance écrevisse/crawfish abundance
-    * Détails: Some dates are wrong
+    * Détails: Quelques dates sont incorrectes
     * Source : Environnement Canada
     * Plus d’info : https://ogsl.ca/fr/biodiversite/invertebres/ecrevisses/sommaire.html
   3. *DB_NPRI_qc.csv* 
-    * Détails: Inventaire national des rejets de polluants(aquatiques)/National Pollutant Release Inventory(Aquatic)
+    * Détails: Inventaire national des rejets de polluants (aquatiques)/ National Pollutant Release Inventory (Aquatic)
     * Durée: 1993-2014
     * Source : Environnement Canada
     * Plus d’info : http://ec.gc.ca/inrp-npri/default.asp?lang=Fr&n=B5C1EAB8-1
@@ -19,8 +19,8 @@
     * Fréquence: Hebdomadaire
     * Durée: 2003-2014
     * Source : Ville de Montréal
-    * Plus d’info : 
-  5. *DB_waterLevel_LaPrairie.csv & DB_waterLevel_PointeClaire.csv* 
+    * Plus d’info : http://donnees.ville.montreal.qc.ca/dataset/rsma-qualite-de-l-eau-en-rive-qualo
+  5. *DB_waterLevel_LaPrairie.csv* & *DB_waterLevel_PointeClaire.csv* 
     * Détails:  water level (m)
     * Frequency: Daily
     * Durée: 1967-2015
@@ -51,7 +51,7 @@
     * Source : Ville de Montréal
     * Plus d’info : http://donnees.ville.montreal.qc.ca/dataset/rsma-donnees-ruisso-annuelle
   10. *DB_invasive_sp_cdn.csv- Observations espèces invasives aux Canada* 
-    * Détails:   Observations espèces invasives aux Canada- Report of invasive species in canada
+    * Détails:   Observations espèces invasives Canada- Report of invasive species in canada
     * Fréquence: NA
     * Durée: NA
     * Source : GSIN
