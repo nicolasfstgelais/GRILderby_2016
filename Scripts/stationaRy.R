@@ -22,13 +22,18 @@ isd_stations_search(lat = 45, lon = -74, radius = 100)
 
 # select "716270-99999" for Trudeau station
 # select "713710-99999" for St-Hubert station
-data=get_isd_station_data("716270-99999", 2000,2015, local_tz = TRUE)
-?get_isd_station_data
+data=get_isd_station_data("711830-99999", 1995,2015, local_tz = TRUE)
+data=rbind(data,get_isd_station_data("713710-99999", 1995,2015, local_tz = TRUE))
+data=rbind(data,get_isd_station_data("713720-99999", 1995,2015, local_tz = TRUE))
+data=rbind(data,get_isd_station_data("713770-99999", 1995,2015, local_tz = TRUE))
+data=rbind(data,get_isd_station_data("716120-99999", 1995,2015, local_tz = TRUE))
 
-date=paste(data$year,data$month,data$day,sep="-")
+
+date=paste(data$year,formatC(data$month, width=2, flag="0"),formatC(data$day, width=2, flag="0"),sep="-")
+data$date=date
 data=data.frame(date,data)
 
-setwd("C://Users//Nicolas//Documents//GitHub//DataDerby2016")
+setwd("C://Users//Nicolas//Documents//GitHub//GRILDerby_2016")
 write.csv(data,"DB_weather_yul.csv")
 
 

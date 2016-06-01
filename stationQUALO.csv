@@ -1,155 +1,155 @@
 Point d'échantillonnage,Nom,Localisation,Administration,Lat,Long,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015
-BLAP-0.5,Parc Stinson,"Parc Stinson, à la hauteur du boul. Lasalle et de la rue Lyette.",LaSalle,45.4281974399,-73.6655148484,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-BLAP-01,Parc Canal de Lachine (cabouse),"Parc Canal de Lachine, à la hauteur av. Dollard et de la Berge-du-Canal",Lachine,45.4412218555,-73.64582041,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-BLAP-02,Parc Canal de Lachine (H2O),"Parc Canal de Lachine, à la hauteur des rues Saint-Patrick et d'Argenson",Le Sud-Ouest,45.4790985493,-73.5738497417,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
-BLAP-1,Parc La Bécane,"Parc La Bécane, à la hauteur boul. Lasalle et 68ième av.",LaSalle,45.4149546932,-73.6287247564,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-BLAP-10,Bout de la rue Hall,"Verdun, sud de l'île des Soeurs, extrémité sud du ch. de la Pointe-Sud.",Verdun,45.4495911138,-73.5470037208,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
-BLAP-10.5,Parc Adrien-D.-Archambault,"Parc Adrien-D.-Archambault, bout de la rue André-Prévost",Verdun,45.4468586506,-73.561134424,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
-BLAP-2,Terrasse Chatelle,"Lasalle, 50m au sud de l'intersection du boul.Lasalle et de l'av. 40e.",LaSalle,45.4157333498,-73.6154233797,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-BLAP-2.2,Parc des Rapides (T.Serre),"Parc des rapides, 300m à l'est de l'inters. du boul. Lasalle et de la rue Raymond",LaSalle,45.41936076,-73.6032382593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-BLAP-2.5,Parc des Rapides (T.Serre),"Parc des Rapides, Terrasse Serre, à la hauteur des boul. Lasalle et Bishop-Power",LaSalle,45.4264527832,-73.5952430759,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-BLAP-2.7,Parc O'Reilley,"Parc Georges-O'Reilly, 300m au sud de l'inters. du boul. Lasalle et de la rue Stephens",Verdun,45.4411740533,-73.5762546406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-BLAP-2.75,Bassin de pêche (Ter. Serre),"Lasalle, boul. LaSalle, 150m à l'est de l'intersection du boul. St-Joseph et de l'av. 7e, au ponceau du bassin du pôle des rapides de Lachine.",Verdun,45.4290760206,-73.5920949642,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
-BLAP-2.8,Parc O'Reilley (Natatorium),"Parc Hon. George O'Reilley, à hauteur rue Stephens, quai du Natatorium",Verdun,45.4431908074,-73.5740532519,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
-BLAP-3,Parc O'Reilley (quai Tortue),"Parc Hon. George O'Reilley, à hauteur rue Brault, quai de la Tortue",Verdun,45.4474013799,-73.568873267,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-BLAP-4,Parc Desmarchais,"Parc Desmarchais, à la hauteur du boul. Lasalle et av. Desmarchais",Verdun,45.4541286344,-73.5637255094,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-BLAP-4.5,Pont Champlain,"sous le pont Champlain, à partir de la rive de Montréal",Le Sud-Ouest,45.47107794,-73.5523011112,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-BLAP-5,rue Cours du fleuve,"Verdun, île des Soeurs, 200m à l'est de la rue Cours du fleuve, en aval de l'estacade du pont Champlain.",Verdun,45.4669052907,-73.531932097,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BLAP-5.5,"Parc Marin, Île des Soeurs","Verdun, île des Soeurs, 100m à l'ouest de l'intersection des ch. du Golf et du boul. Marguerite-Bourgeoys, Parc Marin.",Verdun,45.4615325651,-73.556701275,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-BLAP-6,Parc Cours-du-Fleuve (pte N),"Île des Soeurs, piste cyclable pointe nord, à la hauteur du ch.de la Pointe-Nord",Verdun,45.4745138402,-73.5410337861,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-BLAP-7,Parc Cours-du-Fleuve (pont),"île des Soeurs, piste cyclable pointe nord, à la hauteur boul. R-Levesque et rue Estacade du Pont Champlain",Verdun,45.4701541443,-73.5341678021,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-BLAP-8,Jetée Bikerdike,"Ville-Marie, extrémité nord de l'av. Pierre-Dupuy, Parc de la Cité-du-Hâvre, 300m en aval du pont de la Concorde.",Ville-Marie,45.5078815685,-73.5428839288,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
-BLAP-8.5,Parc Cité-du-Havre Habitat 67,"Parc de la Cité-du-Hâvre, derrière Habitat 67",Ville-Marie,45.5005281771,-73.5428231616,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1
-BLAP-9,Parc West-Vancouver,"Île des Soeurs, Parc West-Vancouver, à la hauteur du boul. de l'Île-des-Soeurs et rue Darwin",Verdun,45.4561404031,-73.5419549905,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-170,Plage du parc Jean-Drapeau,Page du parc Jean-Drapeau,Ville-Marie,45.4982554719,-73.5234560711,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
-FSL-180,Port Sainte-Hélène,"Ville-Marie, île Sainte-Hélène, extrémité nord de l'av. du Port, rampe de mise à l'eau du Port Sainte-Hélène.",Ville-Marie,45.5274809901,-73.5357004904,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
-FSL-185,bassin d'Aviron,"Parc Jean Drapeau, bassin d'Aviron, extrémité nord, au bout du quai central.",Ville-Marie,45.517040929,-73.5263298657,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
-FSL-190,Parc J.-Drapeau (pl.Nations),"Île Sainte-Hélène, Parc Jean-Drapeau, ancienne Place des Nations",Ville-Marie,45.506499332,-73.5328610369,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-200,Marina du Vieux-Port,"Marina du Vieux-Port de Montréal, rue Quai-Jacques-Cartier",Ville-Marie,45.5060457683,-73.5501352133,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-201,Quai Jacques-Cartier,"Ville-Marie, 350m à l'est de l'intersection des rues Saint-Gabriel et de la Commune, Quai Jacques-Cartier, quai principal du Port d'Escale.",Ville-Marie,45.5053211569,-73.5514872868,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FSL-205,Bassin de l'Horloge,"Vieux-Port de Montréal, 250m à l'est de l'inters. de la rue St-André et de la rue Commune E., quai de l'horloge",Ville-Marie,45.5127073133,-73.5458904318,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-FSL-300,Parc Prom. Bellerive (amont),Parc de la Promenade Bellerive à la hauteur de la rue Bellerive et av.Mercier,Mercier-Hochelaga-Maisonneuve,45.5952677651,-73.5078879474,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-310,Parc Prom. Bellerive (aval),Parc de la Promenade Bellerive à la hauteur de rue Bellerive et av.Gonthier,Mercier-Hochelaga-Maisonneuve,45.6098802855,-73.507173851,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-330,Parc René-Labrosse,"Parc René-Labrosse, à la hauteur de pl. de l'Église et Sainte-Julie",Montréal-Est,45.6299023617,-73.4946350187,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-340,Parc Fort-Pointe-aux-Trembles,"Parc Fort-de-Pointe-aux-Trembles, à la hauteur du boul. Saint-Jean-Baptiste et rue Bellerive",Rivière-des-Prairies-Pointe-aux-Trembles,45.6397340631,-73.4872669398,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-360,Marina P.A.T.,"Marina P.A.T., à la hauteur de la rue Notre-Dame et boul. Tricentenaire",Rivière-des-Prairies-Pointe-aux-Trembles,45.6493723435,-73.4864471519,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-380,Rampe de mise à l'eau (36e),"rampe de mise à l'eau, entre la 36e et la 39e av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6589095463,-73.4890775411,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-390,Au bout de la 43e av.,"Rivière-des-Prairies / Pointe-aux-Trembles, 75m à l'extrémité est de l'av. 43e.",Rivière-des-Prairies-Pointe-aux-Trembles,45.663498094,-73.4914050539,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-FSL-400,Parc C.-De-La-Rousselière,"Parc Clémentine-de-La-Rousselière, à la hauteur du boul. de la Rousselière et rue Notre-Dame E.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6675847206,-73.4914486745,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-410,Havre Liberté,"Rivière-des-Prairies / Pointe-aux-Trembles, 50m au nord-est de l'extrémité de l'av. 55e.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6713987686,-73.4912472066,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
-FSL-420,60e Avenue,"Rivière-des-Prairies / Pointe-aux-Trembles, 25m à l'est de l'extrémité de la 60e av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6750175783,-73.4905634441,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-FSL-425,Parc Marcel-Léger,"Parc Marcel-Léger, à l'extrémité de la rue Françoise-Langlois",Rivière-des-Prairies-Pointe-aux-Trembles,45.6770544181,-73.4904799109,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
-FSL-430,P-N Pointe-aux-Prairies (67e),"Parc-Nature de la Pointe-aux-Prairies, en aval de la 67e av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6798377844,-73.4901725843,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-460,Parc Pierre-Payet,"Parc Pierre-Payet, à la hauteur de 82e av. et rue Bellerive",Rivière-des-Prairies-Pointe-aux-Trembles,45.6886499764,-73.4854959621,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-480,rampe de mise à l'eau Pauline-Donalda,"Parc Pierre-Payet, à la hauteur de la rue Pauline-Donalda et Bellerive, rampe de mise à l'eau",Rivière-des-Prairies-Pointe-aux-Trembles,45.6923093293,-73.482204899,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-490,amont du parc du Bout-de-l'Île,En amont du parc du Bout-de-l'Île à la hauteur de la 94e av. et de Bellerive,Rivière-des-Prairies-Pointe-aux-Trembles,45.6974244614,-73.479818878,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
-FSL-500,Parc du Bout-de-l'Île (fleuve),"Parc du Bout-de-l'Île (fleuve), à la hauteur de la rue Bureau et de 101 av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.7006545581,-73.4782170121,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-IBIZ-1,Pont de l'île Mercier,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 250m au sud-est de l'intersection du ch. Cherrier et de la rue Louis-Roch, sur le pont de l' île Mercier.",L'Île-Bizard-Sainte-Geneviève,45.4837903904,-73.8782039134,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
-IBIZ-1.5,Rue Charron,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 60m au sud-est de la rue Dollard.",L'Île-Bizard-Sainte-Geneviève,45.4861261857,-73.8750829112,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
-IBIZ-10.5,Pointe des Carrières (plage),"L'Île-Bizard / Sainte-Geneviève, Île Bizard, Parc-nature du Boisé-de-l'Île-Bizard, plage de la Pointe-aux-Carrières, rive à l'ouest du fossé.",L'Île-Bizard-Sainte-Geneviève,45.5159655427,-73.9011306153,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
-IBIZ-11,rue Roussin,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 25m à l'ouest de la rue Roussin, en amont du Parc-nature du Boisé-de-l'Île-Bizard.",L'Île-Bizard-Sainte-Geneviève,45.5139069748,-73.9020847716,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-IBIZ-11.5,Parc Terrasse- Martin,à la hauteur de la rue Terrasse Martin et ch.Bord du lac,L'Île-Bizard-Sainte-Geneviève,45.5077732621,-73.9097835493,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-IBIZ-12,0,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, extrémité de l'av. Théoret.",L'Île-Bizard-Sainte-Geneviève,45.5039148621,-73.9126198523,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IBIZ-13,Extrémité de la rue Roger,"à l'extrémité de la rue Roger, près de l'intersection avec Montée Wilson.",L'Île-Bizard-Sainte-Geneviève,45.47690651,-73.9271250628,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-IBIZ-13.5,Pointe Théorêt (plage),"L'Île-Bizard / Sainte-Geneviève, Île Bizard, Parc-nature du Cap-St-Jacques, côté sud-ouest de la Pointe Théoret, sur la plage.",L'Île-Bizard-Sainte-Geneviève,45.4686170828,-73.9025625281,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0
-IBIZ-14,P-N Cap-St-Jacques,"Parc-Nature du Cap-Saint-Jacques (Pointe Théorêt, côté est)",L'Île-Bizard-Sainte-Geneviève,45.4698043279,-73.8994354614,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-IBIZ-15,Parc Terrasse-Sacré-Coeur,"Parc Terrasse-Sacré-Coeur, à la hauteur des rues Terrasse Sacré-coeur et Paquin",L'Île-Bizard-Sainte-Geneviève,45.4805034075,-73.8795900059,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-IBIZ-16,Île Mercier,"L'Île-Bizard / Sainte-Geneviève, Île Mercier, 175m à l'est de l'intersection de la rue Louis-Roch et du boul. Mercier.",L'Île-Bizard-Sainte-Geneviève,45.4844877754,-73.8747529632,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
-IBIZ-2,Parc Denis-Benjamin-Viger,"Parc Denis-Benjamin-Viger, à la hauteur de la rue St-Pierre et ch.Cherrier",L'Île-Bizard-Sainte-Geneviève,45.488861923,-73.8681673845,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-IBIZ-3,Place Maxime,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 60m à l'est de l'extrémité de pl. Maxime.",L'Île-Bizard-Sainte-Geneviève,45.4910720452,-73.8643587323,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
-IBIZ-4,En bordure du ch. Cherrier,À la hauteur des rues Émile et Cherrier,L'Île-Bizard-Sainte-Geneviève,45.5036151389,-73.8613908632,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-IBIZ-5,Rue des Cèdres,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 50m au sud-est de la jonction des ch. Cherrier et Dutour.",L'Île-Bizard-Sainte-Geneviève,45.509171354,-73.8578588172,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
-IBIZ-6,rue des Cèdres,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 65m au nord du coin nord de l'av. des Cèdres.",L'Île-Bizard-Sainte-Geneviève,45.5134128702,-73.8572130117,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-IBIZ-6.5,rue des Érables,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 50m au nord-est de l'intersection des av. des Vignes et des Érables, rampe de mise à l'eau.",L'Île-Bizard-Sainte-Geneviève,45.5160574099,-73.8613862334,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-IBIZ-7,P-N île-Bizard (rapides),"Parc-nature du Bois-de-l'île-Bizard, secteur des Rapides, à la hauteur des rues Cherrier et Patenaude",L'Île-Bizard-Sainte-Geneviève,45.518608597,-73.8639167409,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-IBIZ-8,Rapides Lalemant,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 20m au nord de l'intersection du ch. du Bord-du-lac et de l'av. 5e.",L'Île-Bizard-Sainte-Geneviève,45.5198902239,-73.878104067,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-IBIZ-8.4,Ch. Bord-du-Lac,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 350m en aval de l'intersection de pl. des Cageux et ch. Bord-du-Lac, 225m au nord-ouest du ch. du Bord-du-lac,.",L'Île-Bizard-Sainte-Geneviève,45.517685845,-73.8943728067,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
-IBIZ-8.5,P-N île-Bizard (acceuil),"Parc-nature du Bois-de-l'île-Bizard, secteur chalet d'accueil, à la hauteur du chemin du Bord-du-lac et Place des Cageux",L'Île-Bizard-Sainte-Geneviève,45.5171426312,-73.8998051233,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
-IBIZ-9,Pointe aux Carrières,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, Parc nature du Boisé-de-l'ile-Bizard, 600m au nord-ouest de l'intersection du ch. du Bord-du-lac et de pl. des Cageux, gazébo de la Pointe aux Carrières.",L'Île-Bizard-Sainte-Geneviève,45.5171344013,-73.902364943,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-LSL-0.5,Port de plaisance de Lachine,"Port de plaisance de Lachine, rampe de mise à l'eau sur le chemin des Iroquois",Lachine,45.4292006566,-73.6739646138,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-1,Parc Monk,"Parc Monk, à la hauteur du boul. Saint-Joseph et de la 7ième av.",Lachine,45.4310119063,-73.671087153,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-10,Parc Edgewater,"Parc Edgewater, à la hauteur des ch. Bord-du-Lac et Bowling Green",Pointe-Claire,45.4305512094,-73.8180645174,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-10.25,Club naut. de Pointe-Claire,"Pointe-Claire, extrémité de la rue Cartier, jetée du Yacht Club de Pointe-Claire.",Pointe-Claire,45.4273894648,-73.8209591943,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
-LSL-10.5,Yacht Club de Beaconsfield,"Yacht Club de Beaconsfield, à la hauteur du ch. Lakeshore et av. Glendale",Beaconsfield,45.4257542307,-73.835792596,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-11,Parc Saint-James,"Parc Saint-James, à la hauteur du ch.Lakeshore et rue Kirkwood",Beaconsfield,45.4290136793,-73.8429391019,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-11.5,Club nautique Lord-Reading,"Beaconsfield, intersection du boul. Beaconsfield et de la pl. Ashton, jetée du Lord Reading yacht club.",Beaconsfield,45.423400934,-73.8610189293,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-LSL-12,Parc Centennial,"Parc Centennial, à la hauteur du boul. Beaconsfield et road Shore",Beaconsfield,45.4233723794,-73.8616692198,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-12.5,Parc Saint-Louis,"Beaconsfield, 60m au sud de l'intersection de la rue Lakeshore et de l'av.. Saint-Louis, Parc St-Louis",Beaconsfield,45.4171214985,-73.8775957377,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0
-LSL-13,Parc Angell,"Parc Angell, à la hauteur du ch. Lakeshore et av. Angell",Beaconsfield,45.4154903855,-73.8838556894,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-14,Parc Lakeview,"Parc Lakeview, à la hauteur de ch.Lakeshore et boul. Lakeview",Beaconsfield,45.4149117235,-73.8894919993,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-15,Place Poplar,"Baie d'Urfé, 200m au sud de l'intersection de la route Lakeshore et de la pl. Poplar",Baie d'Urfé,45.4112844731,-73.9003387443,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-LSL-16,Parc de l'Hôtel de Ville,"Parc de l'Hôtel de Ville, à la hauteur du ch. Lakeshore et rue Carrière",Baie d'Urfé,45.4075156035,-73.9170058095,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-17,Parc Bertold,"Parc Bertold, à la hauteur du ch. Lakeshore et rue Churchill",Baie d'Urfé,45.4034966811,-73.9242020891,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-17.5,Club nautique de Baie d'Urfé,"Baie d'Urfé, 220m au sud-ouest de l'intersection de la route Lakeshore et de la rue de la Pointe Caron, quai du Baie d'Urfé yacht club.",Baie d'Urfé,45.4038378755,-73.922791128,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-LSL-18,Bordure ch.Lakeshore,"En bordure du ch. Lakeshore, à la hauteur de la rue St-Andrew's",Sainte-Anne-de-Bellevue,45.4042505148,-73.9345207723,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-19,Parc Kelso,"Parc Kelso, à la hauteur des rues Sainte-Anne et Perrault",Sainte-Anne-de-Bellevue,45.4022740758,-73.9461889295,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-2,Marina d'escale,"Marina d'escale, à la hauteur du boul. Saint-Joseph et 24ième av.",Lachine,45.4329043893,-73.6856828197,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-2.5,Quai Fédéral,"Quai Fédéral, parc Saint-Louis, à la hauteur du boul. Saint-Joseph et 34e av.",Lachine,45.4324532237,-73.6943170218,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-20,Parc Promenade Canal,"Parc Promenade Canal, 30m au sud de la rue Sainte-Anne, sous le pont Galipeault, en aval de l'écluse",Sainte-Anne-de-Bellevue,45.4039650528,-73.9542243822,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-20.5,Amont de l'écluse,"Parc Promenade du Canal, à la hauteur de la rue Sainte-Anne et Aut. 20",Sainte-Anne-de-Bellevue,45.404944971,-73.9573157901,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-LSL-21,Parc Godin,"Parc Godin, à la hauteur de la rue Grier et Pacifique",Sainte-Anne-de-Bellevue,45.40763586,-73.956958511,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-3,Parc Stoney Point,"Parc Stoney Point, à la hauteur de la 46 av. et boul. Saint-Joseph",Lachine,45.4356330787,-73.7070769127,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-4,Parc Summerlea,"Parc Summerlea, à la hauteur de la 53e av. et boul. Saint-Joseph",Lachine,45.4375636539,-73.7156229348,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-4.3,Parc du Milllénaire / Dorval,"Parc du Millénaire, à la hauteur du cercle Keiller et av. Sévigny",Dorval,45.4384839465,-73.723304877,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
-LSL-4.5,Extrémité de la rue Saint-Charles,Extrémité de l'av. Saint-Charles à la hauteur de la rue Ducharme,Dorval,45.4379377098,-73.7267478618,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-5,Avenue Dahlia,"Dorval, extrémité sud de l'av. Dahlia",Dorval,45.4371890319,-73.7324332995,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-LSL-5.25,Rue Ash,"Dorval, île Dorval, aval de l'île Dorval, 30m au sud-est de l'av. Ash.",Dorval,45.4322449276,-73.7377316194,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-LSL-5.5,Traversier Île Dorval,"Quai du traversier de l'île Dorval, à l'extrémité de l'av. Dorval à la hauteur de ch.Bord du lac",Dorval,45.438105793,-73.7393059252,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-5.75,Club naut. Royal Saint-Laurent,"Dorval, 100m au sud-est de l'av. Allan Point, jetée du Yacht-Club Royal Saint-Laurent",Dorval,45.4378641919,-73.7531230638,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0
-LSL-6,Parc Pine Beach (aval),"Dorval, 100m au sud de l'intersection du ch. Bord-du-Lac et du boul. Pine Beach, Parc Pine Beach",Dorval,45.4389103938,-73.7583517098,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-LSL-6.5,Parc Pinebeach,"Parc Pinebeach (amont), à la hauteur du ch. Bord-du-Lac et av. Saint-Louis",Dorval,45.4397458168,-73.7629475401,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1
-LSL-7,Parc Baie-de-Valois,"Parc Baie de Valois, à la hauteur du ch.Bord-du-Lac et av. Canary",Dorval,45.4420621003,-73.7752185289,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-8,Parc P.C. Venture,"Parc P.C. Venture, à la hauteur du ch.Bord du lac et voie d'accès à l'A20",Pointe-Claire,45.4468918017,-73.796046943,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-LSL-9,Parc Steward,"Parc Steward, à l'extrémité de l'av. Stewart à la hauteur du ch. Bord du lac",Pointe-Claire,45.4339624309,-73.8075872736,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-100,Extrémité de la rue Beaulieu,"À l'extrémité de la rue Beaulieu, à la hauteur du boul. Gouin O.",L'Île-Bizard-Sainte-Geneviève,45.4727263694,-73.8776219741,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-110,Parc Antoine-Faucon,"Parc Antoine-Faucon, à l'extrémité de la rue du Pont, à la hauteur du boul.Gouin O.",L'Île-Bizard-Sainte-Geneviève,45.4858671363,-73.8690237921,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-120,Parc du Portage,"Parc du Portage, à la hauteur de la rue Bourget et Place Bellerive",L'Île-Bizard-Sainte-Geneviève,45.4877604522,-73.8633164851,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-130,chemin de la rive Boisée,"Pierrefonds-Roxboro, 250m au nord-ouest de l'intersection du ch. de la Rive-Boisée et du boul. Gouin.",Pierrefonds-Roxboro,45.4957143663,-73.8532823485,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RDP-140,Parc de la Rive-Boisée,"Parc de la Rive-Boisée, en amont de la rue David, à la hauteur du ch. De la rive Boisée",Pierrefonds-Roxboro,45.4987086915,-73.854787842,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-150,Extrémité de la rue du Bocage,"À  l'extrémité de la rue du Bocage, à la hauteur du boul. Gouin O.",Pierrefonds-Roxboro,45.4995823432,-73.8581831483,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-160,Parc de Versailles,"Parc de Versailles, à la hauteur des rues Desjardins et William",Pierrefonds-Roxboro,45.5122798143,-73.8487562522,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-180,Parc Rapides-du-Cheval-Blanc,"Parc Rapides du Cheval Blanc, à l'extrémité de la rue Riviera, à la hauteur du boul. Riverdale",Pierrefonds-Roxboro,45.5169163679,-73.8294529669,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-190,Parc de l'Île de Roxboro,"Parc de l'Île de Roxboro, à l'extrémité de la 5e av., à la hauteur du boul. Gouin O.",Pierrefonds-Roxboro,45.5138458736,-73.8211930772,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-195,Parc Louise-Deschênes,"Parc Louise-Deschênes, à l'extrémité de la 1e av., à la hauteur de la 3e rue",Pierrefonds-Roxboro,45.5156240515,-73.8132896592,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-20,Pointe aux moutons,"Baie amont de la Pointe aux moutons, sur ch. Senneville en aval de av. Sunset",Senneville,45.4172831375,-73.9642541042,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-200,Parc Paquin,"Parc Paquin, à la hauteur des rues du Belvédère et Saraguay E.",Pierrefonds-Roxboro,45.5107174656,-73.7992087222,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-220,Parc Anciens-Combattants,"Parc des Anciens-Combattants, à la hauteur du boul. Lalande et rue Rose",Pierrefonds-Roxboro,45.5094237578,-73.784565176,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-240,rue Hortie,"Pierrefonds-Roxboro, 200m au nord de l'intersection du boul. Gouin et de la rue Hortie.",Pierrefonds-Roxboro,45.5086526888,-73.7739100812,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RDP-25,Club nautique de Senneville,"Senneville, 350m au sud de l'intersection du ch. Senneville et de l'autoroute Transcanadienne, à l'intérieur de la jetée du Club de voile Senneville.",Senneville,45.4184970572,-73.9685300146,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-RDP-250,P-N du Bois-de-Liesse,"Parc-Nature du Bois-de-Liesse, à la hauteur des boul. Gouin O. et Pitfield",Pierrefonds-Roxboro,45.5102537442,-73.7621436271,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-255,pont du ruisseau Bertrand,"Ahuntsic-Cartierville, av. du Ruisseau, ponceau surplombant le ruisseau Bertrand.",Ahuntsic-Cartierville,45.5117082636,-73.7555083576,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-RDP-260,Collège Ste-Marcelline,"Ahuntsic-Cartierville, 375m au nord de l'intersection du boul.Gouin et de l'av. LeMesurier, Parc régional du Bois-de-Saraguay.",Ahuntsic-Cartierville,45.5171772156,-73.7487905396,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-RDP-275,0,"Au bout de la rue Olivier, en amont du parc Beauséjour.",Ahuntsic-Cartierville,45.5271480738,-73.7348566967,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-RDP-280,Parc Beauséjour,"Ahuntsic-Cartierville, 350m au nord-ouest de l'intersection du boul. Gouin et de la rue Henri-D'Arles, Parc Beauséjour.",Ahuntsic-Cartierville,45.5293217742,-73.7331970794,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
-RDP-290,Club canotage de Cartierville,"Club de canotage de Cartierville, à l'extrémité de la rue Crevier, à la hauteur du boul. Gouin",Ahuntsic-Cartierville,45.5309713451,-73.7283541001,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-30,Club de voile de Senneville,"Club de voile de Senneville, à la hauteur du ch. Senneville et de l'A40",Senneville,45.4181157143,-73.9697031123,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-300,Rue Notre-Dame-des-Anges,"Ahuntsic-Cartierville, extrémité de la rue Notre-Dame-des-Anges.",Ahuntsic-Cartierville,45.5368647558,-73.7200929273,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-RDP-305,Parc Raimbault,"Parc Raimbault, à la hauteur des rues Notre-Dame-des-Anges et du Bocage",Ahuntsic-Cartierville,45.5372133685,-73.7168236731,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-310,Parc des Bateliers,"Ahuntsic-Cartierville, parc des Bateliers, au bout du boul. de l'Acadie",Ahuntsic-Cartierville,45.5447989549,-73.7032448278,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-RDP-320,Parc de la Merci,"Parc de La Merci, à la hauteur du boul. Gouin ouest et rue de Salaberry",Ahuntsic-Cartierville,45.5477039083,-73.6891037929,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-330,Parc Nicolas-Viel,"Parc Nicolas-Viel, à la hauteur du boul. Saint-Laurent et rue Somerville",Ahuntsic-Cartierville,45.5520195665,-73.6770458449,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-340,Parc Stanley,"Ahuntsic-Cartierville, 50m à l'ouest de l'intersection des av. Durham Park Stanley, Parc Stanley.",Ahuntsic-Cartierville,45.55953036,-73.6723919881,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
-RDP-35,Amont de av. Phillips,À la hauteur du ch.Senneville en amont de av. Phillips,Senneville,45.4434664257,-73.9580747491,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-350,Promenade Gouin (Sophie-Barat),"Promenade Gouin (Sophie-Barat), à la hauteur du boul. Gouin O. et av. Saint-Charles",Ahuntsic-Cartierville,45.561892933,-73.6695979331,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-360,P-N de-la-Visitation (pont),"Parc-nature de l'Île-de-la-Visitation (pont piétonnier), à la hauteur du boul. Gouin E. et rue de Lille",Ahuntsic-Cartierville,45.5806987878,-73.6573986554,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-370,P-N de l'Île-de-la-Visitation,"Ahuntsic-Cartierville, 350m au nord de la rue D'Iberville, extrémité est de l'Île-de-la-Visitation, au pied du belvédère.",Ahuntsic-Cartierville,45.5821180752,-73.6573677066,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-RDP-380,Parc Aimé-Léonard,"Parc Aimé-Léonard, à la hauteur du boul. Albert-Brosseau et rue Savard",Montréal-Nord,45.6031151519,-73.6428372769,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-385,Avenue Pigeon,"Montréal-Nord, 125m à l'ouest de l'intersection des boul. Gouin et Sainte-Gertrude, bout de la rue Pigeon.",Montréal-Nord,45.6082315615,-73.6403181948,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
-RDP-40,Baie Forget,"Senneville, 400m à l'est de l'intersection du ch. Senneville et de l'av. Phillips.",Senneville,45.4456567269,-73.9515846467,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-RDP-400,Parc Fortin,"Montréal-Nord, 25m à l'ouest de l'intersection du boul. Gouin et de l'av. Fortin.",Montréal-Nord,45.6212699865,-73.6315517095,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
-RDP-420,Parc Ernest-Rouleau,"Parc Ernest-Rouleau,à la hauteur du boul. Gouin et à l'Est de av. Ozias-Leduc",Rivière-des-Prairies-Pointe-aux-Trembles,45.631716767,-73.616517776,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-440,Parc André-Corbeil,"Parc André-Corbeil-dit-Tranchemontagne, à la hauteur de 28e av. et boul. Gouin O.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6453381403,-73.5964709635,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-460,Parc Moulin-du-Rapide,"Parc Moulin-du-Rapide, à la hauteur de 58e av. et de Clichy",Rivière-des-Prairies-Pointe-aux-Trembles,45.6606035678,-73.5730630767,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-480,Parc du Cheval-Blanc,"Parc du Cheval-Blanc, à l'est de 68e av., à la hauteur de Gouin O.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6633909888,-73.5628566024,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-490,Parc des Cageux,"Parc des Cageux, à la hauteur de la 94e av. et boul. Gouin O.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6759697314,-73.5373096862,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
-RDP-500,P-N de la Pointe-aux-Prairies,"Rivière-des-Prairies / Pointe-aux-Trembles, 200m au nord de l'intersection du boul. Gouin et la rue Mathieu-de-Costa",Rivière-des-Prairies-Pointe-aux-Trembles,45.6813352329,-73.5328859941,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
-RDP-520,Pont Charles-de Gaulle,"Pont Charles-De-Gaulle, à la hauteur de l'aut. 40 et boul. Gouin O.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6991652049,-73.5086830479,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-540,Parc Gouin (Haynes),"Parc Gouin (Haynes), à la hauteur de la 133e av. et boul. Gouin",Rivière-des-Prairies-Pointe-aux-Trembles,45.6974867522,-73.4981591152,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-550,ex-Marina Clément,"Rivière-des-Prairies / Pointe-aux-Trembles, 100m au nord-ouest de l'intersection de l'av. 100e et de la rue Notre-Dame.",Rivière-des-Prairies-Pointe-aux-Trembles,45.701252737,-73.4847529566,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0
-RDP-560,Parc du Bout-de-l'Île (RDP),"Parc du Bout-de-l'Île (côté rivière), à la hauteur de la rue Bureau et de 101e av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.7024250401,-73.4786898809,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-60,P-N Anse-à-l'Orme,"Parc-Nature de l'Anse à l'Orme,à la hauteur du boul. Gouin et à l'est de rue Lauzon",Pierrefonds-Roxboro,45.4538272836,-73.9387989837,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-70,P-N du Cap-Saint-Jacques,"Pierrefonds-Roxboro, près de la rue Charlebois et du chemin du Cap Saint-Jacques, Parc-nature du Cap Saint-Jacques, centre de la plage.",Pierrefonds-Roxboro,45.4616925065,-73.9417646433,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
-RDP-75,P-N Cap-Saint-Jacques,"Parc-Nature du Cap-Saint-Jacques, à la rampe de mise à l'eau, à la hauteur de la rue Pilon et du boul. Gouin",Pierrefonds-Roxboro,45.4627682664,-73.9184781627,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
-RDP-77,Rue Coursol,"Pierrefonds-Roxboro, 100m au nord-ouest de l'intersection des rues Coursol et River.",Pierrefonds-Roxboro,45.466639032,-73.8918197028,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
-RDP-80,Parc Hélène-Legault,"Parc Hélène-Legault, à la hauteur des rues des Cageux et Hélène",Pierrefonds-Roxboro,45.4686628763,-73.888588366,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-RDP-95,Parc Julie-Dauth,"Pierrefonds / Roxboro, Parc Julie-Dauth,à la hauteur de la rue Julie et du boul. Gouin",Pierrefonds-Roxboro,45.4710088576,-73.8835397359,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+BLAP-0.5,Parc Stinson,"Parc Stinson, à la hauteur du boul. Lasalle et de la rue Lyette.",LaSalle,45.42819744,-73.66551485,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BLAP-01,Parc Canal de Lachine (cabouse),"Parc Canal de Lachine, à la hauteur av. Dollard et de la Berge-du-Canal",Lachine,45.44122186,-73.64582041,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BLAP-02,Parc Canal de Lachine (H2O),"Parc Canal de Lachine, à la hauteur des rues Saint-Patrick et d'Argenson",Le Sud-Ouest,45.47909855,-73.57384974,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+BLAP-1,Parc La Bécane,"Parc La Bécane, à la hauteur boul. Lasalle et 68ième av.",LaSalle,45.41495469,-73.62872476,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BLAP-10,Bout de la rue Hall,"Verdun, sud de l'île des Soeurs, extrémité sud du ch. de la Pointe-Sud.",Verdun,45.44959111,-73.54700372,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+BLAP-10.5,Parc Adrien-D.-Archambault,"Parc Adrien-D.-Archambault, bout de la rue André-Prévost",Verdun,45.44685865,-73.56113442,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+BLAP-2,Terrasse Chatelle,"Lasalle, 50m au sud de l'intersection du boul.Lasalle et de l'av. 40e.",LaSalle,45.41573335,-73.61542338,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+BLAP-2.2,Parc des Rapides (T.Serre),"Parc des rapides, 300m à l'est de l'inters. du boul. Lasalle et de la rue Raymond",LaSalle,45.41936076,-73.60323826,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+BLAP-2.5,Parc des Rapides (T.Serre),"Parc des Rapides, Terrasse Serre, à la hauteur des boul. Lasalle et Bishop-Power",LaSalle,45.42645278,-73.59524308,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BLAP-2.7,Parc O'Reilley,"Parc Georges-O'Reilly, 300m au sud de l'inters. du boul. Lasalle et de la rue Stephens",Verdun,45.44117405,-73.57625464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+BLAP-2.75,Bassin de pêche (Ter. Serre),"Lasalle, boul. LaSalle, 150m à l'est de l'intersection du boul. St-Joseph et de l'av. 7e, au ponceau du bassin du pôle des rapides de Lachine.",Verdun,45.42907602,-73.59209496,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+BLAP-2.8,Parc O'Reilley (Natatorium),"Parc Hon. George O'Reilley, à hauteur rue Stephens, quai du Natatorium",Verdun,45.44319081,-73.57405325,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+BLAP-3,Parc O'Reilley (quai Tortue),"Parc Hon. George O'Reilley, à hauteur rue Brault, quai de la Tortue",Verdun,45.44740138,-73.56887327,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BLAP-4,Parc Desmarchais,"Parc Desmarchais, à la hauteur du boul. Lasalle et av. Desmarchais",Verdun,45.45412863,-73.56372551,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BLAP-4.5,Pont Champlain,"sous le pont Champlain, à partir de la rive de Montréal",Le Sud-Ouest,45.47107794,-73.55230111,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BLAP-5,rue Cours du fleuve,"Verdun, île des Soeurs, 200m à l'est de la rue Cours du fleuve, en aval de l'estacade du pont Champlain.",Verdun,45.46690529,-73.5319321,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BLAP-5.5,"Parc Marin, Île des Soeurs","Verdun, île des Soeurs, 100m à l'ouest de l'intersection des ch. du Golf et du boul. Marguerite-Bourgeoys, Parc Marin.",Verdun,45.46153257,-73.55670128,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+BLAP-6,Parc Cours-du-Fleuve (pte N),"Île des Soeurs, piste cyclable pointe nord, à la hauteur du ch.de la Pointe-Nord",Verdun,45.47451384,-73.54103379,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BLAP-7,Parc Cours-du-Fleuve (pont),"île des Soeurs, piste cyclable pointe nord, à la hauteur boul. R-Levesque et rue Estacade du Pont Champlain",Verdun,45.47015414,-73.5341678,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BLAP-8,Jetée Bikerdike,"Ville-Marie, extrémité nord de l'av. Pierre-Dupuy, Parc de la Cité-du-Hâvre, 300m en aval du pont de la Concorde.",Ville-Marie,45.50788157,-73.54288393,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+BLAP-8.5,Parc Cité-du-Havre Habitat 67,"Parc de la Cité-du-Hâvre, derrière Habitat 67",Ville-Marie,45.50052818,-73.54282316,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1
+BLAP-9,Parc West-Vancouver,"Île des Soeurs, Parc West-Vancouver, à la hauteur du boul. de l'Île-des-Soeurs et rue Darwin",Verdun,45.4561404,-73.54195499,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-170,Plage du parc Jean-Drapeau,Page du parc Jean-Drapeau,Ville-Marie,45.49825547,-73.52345607,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+FSL-180,Port Sainte-Hélène,"Ville-Marie, île Sainte-Hélène, extrémité nord de l'av. du Port, rampe de mise à l'eau du Port Sainte-Hélène.",Ville-Marie,45.52748099,-73.53570049,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+FSL-185,bassin d'Aviron,"Parc Jean Drapeau, bassin d'Aviron, extrémité nord, au bout du quai central.",Ville-Marie,45.51704093,-73.52632987,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+FSL-190,Parc J.-Drapeau (pl.Nations),"Île Sainte-Hélène, Parc Jean-Drapeau, ancienne Place des Nations",Ville-Marie,45.50649933,-73.53286104,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-200,Marina du Vieux-Port,"Marina du Vieux-Port de Montréal, rue Quai-Jacques-Cartier",Ville-Marie,45.50604577,-73.55013521,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-201,Quai Jacques-Cartier,"Ville-Marie, 350m à l'est de l'intersection des rues Saint-Gabriel et de la Commune, Quai Jacques-Cartier, quai principal du Port d'Escale.",Ville-Marie,45.50532116,-73.55148729,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FSL-205,Bassin de l'Horloge,"Vieux-Port de Montréal, 250m à l'est de l'inters. de la rue St-André et de la rue Commune E., quai de l'horloge",Ville-Marie,45.51270731,-73.54589043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+FSL-300,Parc Prom. Bellerive (amont),Parc de la Promenade Bellerive à la hauteur de la rue Bellerive et av.Mercier,Mercier-Hochelaga-Maisonneuve,45.59526777,-73.50788795,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-310,Parc Prom. Bellerive (aval),Parc de la Promenade Bellerive à la hauteur de rue Bellerive et av.Gonthier,Mercier-Hochelaga-Maisonneuve,45.60988029,-73.50717385,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-330,Parc René-Labrosse,"Parc René-Labrosse, à la hauteur de pl. de l'Église et Sainte-Julie",Montréal-Est,45.62990236,-73.49463502,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-340,Parc Fort-Pointe-aux-Trembles,"Parc Fort-de-Pointe-aux-Trembles, à la hauteur du boul. Saint-Jean-Baptiste et rue Bellerive",Rivière-des-Prairies-Pointe-aux-Trembles,45.63973406,-73.48726694,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-360,Marina P.A.T.,"Marina P.A.T., à la hauteur de la rue Notre-Dame et boul. Tricentenaire",Rivière-des-Prairies-Pointe-aux-Trembles,45.64937234,-73.48644715,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-380,Rampe de mise à l'eau (36e),"rampe de mise à l'eau, entre la 36e et la 39e av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.65890955,-73.48907754,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-390,Au bout de la 43e av.,"Rivière-des-Prairies / Pointe-aux-Trembles, 75m à l'extrémité est de l'av. 43e.",Rivière-des-Prairies-Pointe-aux-Trembles,45.66349809,-73.49140505,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+FSL-400,Parc C.-De-La-Rousselière,"Parc Clémentine-de-La-Rousselière, à la hauteur du boul. de la Rousselière et rue Notre-Dame E.",Rivière-des-Prairies-Pointe-aux-Trembles,45.66758472,-73.49144867,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-410,Havre Liberté,"Rivière-des-Prairies / Pointe-aux-Trembles, 50m au nord-est de l'extrémité de l'av. 55e.",Rivière-des-Prairies-Pointe-aux-Trembles,45.67139877,-73.49124721,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+FSL-420,60e Avenue,"Rivière-des-Prairies / Pointe-aux-Trembles, 25m à l'est de l'extrémité de la 60e av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.67501758,-73.49056344,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+FSL-425,Parc Marcel-Léger,"Parc Marcel-Léger, à l'extrémité de la rue Françoise-Langlois",Rivière-des-Prairies-Pointe-aux-Trembles,45.67705442,-73.49047991,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+FSL-430,P-N Pointe-aux-Prairies (67e),"Parc-Nature de la Pointe-aux-Prairies, en aval de la 67e av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.67983778,-73.49017258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-460,Parc Pierre-Payet,"Parc Pierre-Payet, à la hauteur de 82e av. et rue Bellerive",Rivière-des-Prairies-Pointe-aux-Trembles,45.68864998,-73.48549596,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-480,rampe de mise à l'eau Pauline-Donalda,"Parc Pierre-Payet, à la hauteur de la rue Pauline-Donalda et Bellerive, rampe de mise à l'eau",Rivière-des-Prairies-Pointe-aux-Trembles,45.69230933,-73.4822049,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-490,amont du parc du Bout-de-l'Île,En amont du parc du Bout-de-l'Île à la hauteur de la 94e av. et de Bellerive,Rivière-des-Prairies-Pointe-aux-Trembles,45.69742446,-73.47981888,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+FSL-500,Parc du Bout-de-l'Île (fleuve),"Parc du Bout-de-l'Île (fleuve), à la hauteur de la rue Bureau et de 101 av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.70065456,-73.47821701,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBIZ-1,Pont de l'île Mercier,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 250m au sud-est de l'intersection du ch. Cherrier et de la rue Louis-Roch, sur le pont de l' île Mercier.",L'Île-Bizard-Sainte-Geneviève,45.48379039,-73.87820391,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+IBIZ-1.5,Rue Charron,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 60m au sud-est de la rue Dollard.",L'Île-Bizard-Sainte-Geneviève,45.48612619,-73.87508291,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+IBIZ-10.5,Pointe des Carrières (plage),"L'Île-Bizard / Sainte-Geneviève, Île Bizard, Parc-nature du Boisé-de-l'Île-Bizard, plage de la Pointe-aux-Carrières, rive à l'ouest du fossé.",L'Île-Bizard-Sainte-Geneviève,45.51596554,-73.90113062,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+IBIZ-11,rue Roussin,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 25m à l'ouest de la rue Roussin, en amont du Parc-nature du Boisé-de-l'Île-Bizard.",L'Île-Bizard-Sainte-Geneviève,45.51390697,-73.90208477,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBIZ-11.5,Parc Terrasse- Martin,à la hauteur de la rue Terrasse Martin et ch.Bord du lac,L'Île-Bizard-Sainte-Geneviève,45.50777326,-73.90978355,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBIZ-12,0,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, extrémité de l'av. Théoret.",L'Île-Bizard-Sainte-Geneviève,45.50391486,-73.91261985,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBIZ-13,Extrémité de la rue Roger,"à l'extrémité de la rue Roger, près de l'intersection avec Montée Wilson.",L'Île-Bizard-Sainte-Geneviève,45.47690651,-73.92712506,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBIZ-13.5,Pointe Théorêt (plage),"L'Île-Bizard / Sainte-Geneviève, Île Bizard, Parc-nature du Cap-St-Jacques, côté sud-ouest de la Pointe Théoret, sur la plage.",L'Île-Bizard-Sainte-Geneviève,45.46861708,-73.90256253,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+IBIZ-14,P-N Cap-St-Jacques,"Parc-Nature du Cap-Saint-Jacques (Pointe Théorêt, côté est)",L'Île-Bizard-Sainte-Geneviève,45.46980433,-73.89943546,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBIZ-15,Parc Terrasse-Sacré-Coeur,"Parc Terrasse-Sacré-Coeur, à la hauteur des rues Terrasse Sacré-coeur et Paquin",L'Île-Bizard-Sainte-Geneviève,45.48050341,-73.87959001,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBIZ-16,Île Mercier,"L'Île-Bizard / Sainte-Geneviève, Île Mercier, 175m à l'est de l'intersection de la rue Louis-Roch et du boul. Mercier.",L'Île-Bizard-Sainte-Geneviève,45.48448778,-73.87475296,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+IBIZ-2,Parc Denis-Benjamin-Viger,"Parc Denis-Benjamin-Viger, à la hauteur de la rue St-Pierre et ch.Cherrier",L'Île-Bizard-Sainte-Geneviève,45.48886192,-73.86816738,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBIZ-3,Place Maxime,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 60m à l'est de l'extrémité de pl. Maxime.",L'Île-Bizard-Sainte-Geneviève,45.49107205,-73.86435873,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+IBIZ-4,En bordure du ch. Cherrier,À la hauteur des rues Émile et Cherrier,L'Île-Bizard-Sainte-Geneviève,45.50361514,-73.86139086,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBIZ-5,Rue des Cèdres,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 50m au sud-est de la jonction des ch. Cherrier et Dutour.",L'Île-Bizard-Sainte-Geneviève,45.50917135,-73.85785882,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+IBIZ-6,rue des Cèdres,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 65m au nord du coin nord de l'av. des Cèdres.",L'Île-Bizard-Sainte-Geneviève,45.51341287,-73.85721301,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBIZ-6.5,rue des Érables,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 50m au nord-est de l'intersection des av. des Vignes et des Érables, rampe de mise à l'eau.",L'Île-Bizard-Sainte-Geneviève,45.51605741,-73.86138623,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+IBIZ-7,P-N île-Bizard (rapides),"Parc-nature du Bois-de-l'île-Bizard, secteur des Rapides, à la hauteur des rues Cherrier et Patenaude",L'Île-Bizard-Sainte-Geneviève,45.5186086,-73.86391674,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBIZ-8,Rapides Lalemant,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 20m au nord de l'intersection du ch. du Bord-du-lac et de l'av. 5e.",L'Île-Bizard-Sainte-Geneviève,45.51989022,-73.87810407,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBIZ-8.4,Ch. Bord-du-Lac,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, 350m en aval de l'intersection de pl. des Cageux et ch. Bord-du-Lac, 225m au nord-ouest du ch. du Bord-du-lac,.",L'Île-Bizard-Sainte-Geneviève,45.51768585,-73.89437281,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+IBIZ-8.5,P-N île-Bizard (acceuil),"Parc-nature du Bois-de-l'île-Bizard, secteur chalet d'accueil, à la hauteur du chemin du Bord-du-lac et Place des Cageux",L'Île-Bizard-Sainte-Geneviève,45.51714263,-73.89980512,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBIZ-9,Pointe aux Carrières,"L'Île-Bizard / Sainte-Geneviève, Île Bizard, Parc nature du Boisé-de-l'ile-Bizard, 600m au nord-ouest de l'intersection du ch. du Bord-du-lac et de pl. des Cageux, gazébo de la Pointe aux Carrières.",L'Île-Bizard-Sainte-Geneviève,45.5171344,-73.90236494,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSL-0.5,Port de plaisance de Lachine,"Port de plaisance de Lachine, rampe de mise à l'eau sur le chemin des Iroquois",Lachine,45.42920066,-73.67396461,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-1,Parc Monk,"Parc Monk, à la hauteur du boul. Saint-Joseph et de la 7ième av.",Lachine,45.43101191,-73.67108715,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-10,Parc Edgewater,"Parc Edgewater, à la hauteur des ch. Bord-du-Lac et Bowling Green",Pointe-Claire,45.43055121,-73.81806452,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-10.25,Club naut. de Pointe-Claire,"Pointe-Claire, extrémité de la rue Cartier, jetée du Yacht Club de Pointe-Claire.",Pointe-Claire,45.42738946,-73.82095919,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+LSL-10.5,Yacht Club de Beaconsfield,"Yacht Club de Beaconsfield, à la hauteur du ch. Lakeshore et av. Glendale",Beaconsfield,45.42575423,-73.8357926,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-11,Parc Saint-James,"Parc Saint-James, à la hauteur du ch.Lakeshore et rue Kirkwood",Beaconsfield,45.42901368,-73.8429391,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-11.5,Club nautique Lord-Reading,"Beaconsfield, intersection du boul. Beaconsfield et de la pl. Ashton, jetée du Lord Reading yacht club.",Beaconsfield,45.42340093,-73.86101893,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LSL-12,Parc Centennial,"Parc Centennial, à la hauteur du boul. Beaconsfield et road Shore",Beaconsfield,45.42337238,-73.86166922,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-12.5,Parc Saint-Louis,"Beaconsfield, 60m au sud de l'intersection de la rue Lakeshore et de l'av.. Saint-Louis, Parc St-Louis",Beaconsfield,45.4171215,-73.87759574,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+LSL-13,Parc Angell,"Parc Angell, à la hauteur du ch. Lakeshore et av. Angell",Beaconsfield,45.41549039,-73.88385569,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-14,Parc Lakeview,"Parc Lakeview, à la hauteur de ch.Lakeshore et boul. Lakeview",Beaconsfield,45.41491172,-73.889492,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-15,Place Poplar,"Baie d'Urfé, 200m au sud de l'intersection de la route Lakeshore et de la pl. Poplar",Baie d'Urfé,45.41128447,-73.90033874,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+LSL-16,Parc de l'Hôtel de Ville,"Parc de l'Hôtel de Ville, à la hauteur du ch. Lakeshore et rue Carrière",Baie d'Urfé,45.4075156,-73.91700581,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-17,Parc Bertold,"Parc Bertold, à la hauteur du ch. Lakeshore et rue Churchill",Baie d'Urfé,45.40349668,-73.92420209,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-17.5,Club nautique de Baie d'Urfé,"Baie d'Urfé, 220m au sud-ouest de l'intersection de la route Lakeshore et de la rue de la Pointe Caron, quai du Baie d'Urfé yacht club.",Baie d'Urfé,45.40383788,-73.92279113,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LSL-18,Bordure ch.Lakeshore,"En bordure du ch. Lakeshore, à la hauteur de la rue St-Andrew's",Sainte-Anne-de-Bellevue,45.40425051,-73.93452077,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-19,Parc Kelso,"Parc Kelso, à la hauteur des rues Sainte-Anne et Perrault",Sainte-Anne-de-Bellevue,45.40227408,-73.94618893,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-2,Marina d'escale,"Marina d'escale, à la hauteur du boul. Saint-Joseph et 24ième av.",Lachine,45.43290439,-73.68568282,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-2.5,Quai Fédéral,"Quai Fédéral, parc Saint-Louis, à la hauteur du boul. Saint-Joseph et 34e av.",Lachine,45.43245322,-73.69431702,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-20,Parc Promenade Canal,"Parc Promenade Canal, 30m au sud de la rue Sainte-Anne, sous le pont Galipeault, en aval de l'écluse",Sainte-Anne-de-Bellevue,45.40396505,-73.95422438,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-20.5,Amont de l'écluse,"Parc Promenade du Canal, à la hauteur de la rue Sainte-Anne et Aut. 20",Sainte-Anne-de-Bellevue,45.40494497,-73.95731579,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+LSL-21,Parc Godin,"Parc Godin, à la hauteur de la rue Grier et Pacifique",Sainte-Anne-de-Bellevue,45.40763586,-73.95695851,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-3,Parc Stoney Point,"Parc Stoney Point, à la hauteur de la 46 av. et boul. Saint-Joseph",Lachine,45.43563308,-73.70707691,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-4,Parc Summerlea,"Parc Summerlea, à la hauteur de la 53e av. et boul. Saint-Joseph",Lachine,45.43756365,-73.71562293,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-4.3,Parc du Milllénaire / Dorval,"Parc du Millénaire, à la hauteur du cercle Keiller et av. Sévigny",Dorval,45.43848395,-73.72330488,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+LSL-4.5,Extrémité de la rue Saint-Charles,Extrémité de l'av. Saint-Charles à la hauteur de la rue Ducharme,Dorval,45.43793771,-73.72674786,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-5,Avenue Dahlia,"Dorval, extrémité sud de l'av. Dahlia",Dorval,45.43718903,-73.7324333,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+LSL-5.25,Rue Ash,"Dorval, île Dorval, aval de l'île Dorval, 30m au sud-est de l'av. Ash.",Dorval,45.43224493,-73.73773162,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+LSL-5.5,Traversier Île Dorval,"Quai du traversier de l'île Dorval, à l'extrémité de l'av. Dorval à la hauteur de ch.Bord du lac",Dorval,45.43810579,-73.73930593,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-5.75,Club naut. Royal Saint-Laurent,"Dorval, 100m au sud-est de l'av. Allan Point, jetée du Yacht-Club Royal Saint-Laurent",Dorval,45.43786419,-73.75312306,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+LSL-6,Parc Pine Beach (aval),"Dorval, 100m au sud de l'intersection du ch. Bord-du-Lac et du boul. Pine Beach, Parc Pine Beach",Dorval,45.43891039,-73.75835171,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+LSL-6.5,Parc Pinebeach,"Parc Pinebeach (amont), à la hauteur du ch. Bord-du-Lac et av. Saint-Louis",Dorval,45.43974582,-73.76294754,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1
+LSL-7,Parc Baie-de-Valois,"Parc Baie de Valois, à la hauteur du ch.Bord-du-Lac et av. Canary",Dorval,45.4420621,-73.77521853,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-8,Parc P.C. Venture,"Parc P.C. Venture, à la hauteur du ch.Bord du lac et voie d'accès à l'A20",Pointe-Claire,45.4468918,-73.79604694,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LSL-9,Parc Steward,"Parc Steward, à l'extrémité de l'av. Stewart à la hauteur du ch. Bord du lac",Pointe-Claire,45.43396243,-73.80758727,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-100,Extrémité de la rue Beaulieu,"À l'extrémité de la rue Beaulieu, à la hauteur du boul. Gouin O.",L'Île-Bizard-Sainte-Geneviève,45.47272637,-73.87762197,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-110,Parc Antoine-Faucon,"Parc Antoine-Faucon, à l'extrémité de la rue du Pont, à la hauteur du boul.Gouin O.",L'Île-Bizard-Sainte-Geneviève,45.48586714,-73.86902379,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-120,Parc du Portage,"Parc du Portage, à la hauteur de la rue Bourget et Place Bellerive",L'Île-Bizard-Sainte-Geneviève,45.48776045,-73.86331649,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-130,chemin de la rive Boisée,"Pierrefonds-Roxboro, 250m au nord-ouest de l'intersection du ch. de la Rive-Boisée et du boul. Gouin.",Pierrefonds-Roxboro,45.49571437,-73.85328235,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RDP-140,Parc de la Rive-Boisée,"Parc de la Rive-Boisée, en amont de la rue David, à la hauteur du ch. De la rive Boisée",Pierrefonds-Roxboro,45.49870869,-73.85478784,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-150,Extrémité de la rue du Bocage,"À  l'extrémité de la rue du Bocage, à la hauteur du boul. Gouin O.",Pierrefonds-Roxboro,45.49958234,-73.85818315,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-160,Parc de Versailles,"Parc de Versailles, à la hauteur des rues Desjardins et William",Pierrefonds-Roxboro,45.51227981,-73.84875625,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-180,Parc Rapides-du-Cheval-Blanc,"Parc Rapides du Cheval Blanc, à l'extrémité de la rue Riviera, à la hauteur du boul. Riverdale",Pierrefonds-Roxboro,45.51691637,-73.82945297,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-190,Parc de l'Île de Roxboro,"Parc de l'Île de Roxboro, à l'extrémité de la 5e av., à la hauteur du boul. Gouin O.",Pierrefonds-Roxboro,45.51384587,-73.82119308,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-195,Parc Louise-Deschênes,"Parc Louise-Deschênes, à l'extrémité de la 1e av., à la hauteur de la 3e rue",Pierrefonds-Roxboro,45.51562405,-73.81328966,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-20,Pointe aux moutons,"Baie amont de la Pointe aux moutons, sur ch. Senneville en aval de av. Sunset",Senneville,45.41728314,-73.9642541,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-200,Parc Paquin,"Parc Paquin, à la hauteur des rues du Belvédère et Saraguay E.",Pierrefonds-Roxboro,45.51071747,-73.79920872,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-220,Parc Anciens-Combattants,"Parc des Anciens-Combattants, à la hauteur du boul. Lalande et rue Rose",Pierrefonds-Roxboro,45.50942376,-73.78456518,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-240,rue Hortie,"Pierrefonds-Roxboro, 200m au nord de l'intersection du boul. Gouin et de la rue Hortie.",Pierrefonds-Roxboro,45.50865269,-73.77391008,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RDP-25,Club nautique de Senneville,"Senneville, 350m au sud de l'intersection du ch. Senneville et de l'autoroute Transcanadienne, à l'intérieur de la jetée du Club de voile Senneville.",Senneville,45.41849706,-73.96853001,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+RDP-250,P-N du Bois-de-Liesse,"Parc-Nature du Bois-de-Liesse, à la hauteur des boul. Gouin O. et Pitfield",Pierrefonds-Roxboro,45.51025374,-73.76214363,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-255,pont du ruisseau Bertrand,"Ahuntsic-Cartierville, av. du Ruisseau, ponceau surplombant le ruisseau Bertrand.",Ahuntsic-Cartierville,45.51170826,-73.75550836,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+RDP-260,Collège Ste-Marcelline,"Ahuntsic-Cartierville, 375m au nord de l'intersection du boul.Gouin et de l'av. LeMesurier, Parc régional du Bois-de-Saraguay.",Ahuntsic-Cartierville,45.51717722,-73.74879054,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+RDP-275,0,"Au bout de la rue Olivier, en amont du parc Beauséjour.",Ahuntsic-Cartierville,45.52714807,-73.7348567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+RDP-280,Parc Beauséjour,"Ahuntsic-Cartierville, 350m au nord-ouest de l'intersection du boul. Gouin et de la rue Henri-D'Arles, Parc Beauséjour.",Ahuntsic-Cartierville,45.52932177,-73.73319708,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+RDP-290,Club canotage de Cartierville,"Club de canotage de Cartierville, à l'extrémité de la rue Crevier, à la hauteur du boul. Gouin",Ahuntsic-Cartierville,45.53097135,-73.7283541,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-30,Club de voile de Senneville,"Club de voile de Senneville, à la hauteur du ch. Senneville et de l'A40",Senneville,45.41811571,-73.96970311,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-300,Rue Notre-Dame-des-Anges,"Ahuntsic-Cartierville, extrémité de la rue Notre-Dame-des-Anges.",Ahuntsic-Cartierville,45.53686476,-73.72009293,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+RDP-305,Parc Raimbault,"Parc Raimbault, à la hauteur des rues Notre-Dame-des-Anges et du Bocage",Ahuntsic-Cartierville,45.53721337,-73.71682367,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-310,Parc des Bateliers,"Ahuntsic-Cartierville, parc des Bateliers, au bout du boul. de l'Acadie",Ahuntsic-Cartierville,45.54479895,-73.70324483,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+RDP-320,Parc de la Merci,"Parc de La Merci, à la hauteur du boul. Gouin ouest et rue de Salaberry",Ahuntsic-Cartierville,45.54770391,-73.68910379,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-330,Parc Nicolas-Viel,"Parc Nicolas-Viel, à la hauteur du boul. Saint-Laurent et rue Somerville",Ahuntsic-Cartierville,45.55201957,-73.67704584,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-340,Parc Stanley,"Ahuntsic-Cartierville, 50m à l'ouest de l'intersection des av. Durham Park Stanley, Parc Stanley.",Ahuntsic-Cartierville,45.55953036,-73.67239199,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+RDP-35,Amont de av. Phillips,À la hauteur du ch.Senneville en amont de av. Phillips,Senneville,45.44346643,-73.95807475,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-350,Promenade Gouin (Sophie-Barat),"Promenade Gouin (Sophie-Barat), à la hauteur du boul. Gouin O. et av. Saint-Charles",Ahuntsic-Cartierville,45.56189293,-73.66959793,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-360,P-N de-la-Visitation (pont),"Parc-nature de l'Île-de-la-Visitation (pont piétonnier), à la hauteur du boul. Gouin E. et rue de Lille",Ahuntsic-Cartierville,45.58069879,-73.65739866,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-370,P-N de l'Île-de-la-Visitation,"Ahuntsic-Cartierville, 350m au nord de la rue D'Iberville, extrémité est de l'Île-de-la-Visitation, au pied du belvédère.",Ahuntsic-Cartierville,45.58211808,-73.65736771,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+RDP-380,Parc Aimé-Léonard,"Parc Aimé-Léonard, à la hauteur du boul. Albert-Brosseau et rue Savard",Montréal-Nord,45.60311515,-73.64283728,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-385,Avenue Pigeon,"Montréal-Nord, 125m à l'ouest de l'intersection des boul. Gouin et Sainte-Gertrude, bout de la rue Pigeon.",Montréal-Nord,45.60823156,-73.64031819,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+RDP-40,Baie Forget,"Senneville, 400m à l'est de l'intersection du ch. Senneville et de l'av. Phillips.",Senneville,45.44565673,-73.95158465,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+RDP-400,Parc Fortin,"Montréal-Nord, 25m à l'ouest de l'intersection du boul. Gouin et de l'av. Fortin.",Montréal-Nord,45.62126999,-73.63155171,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+RDP-420,Parc Ernest-Rouleau,"Parc Ernest-Rouleau,à la hauteur du boul. Gouin et à l'Est de av. Ozias-Leduc",Rivière-des-Prairies-Pointe-aux-Trembles,45.63171677,-73.61651778,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-440,Parc André-Corbeil,"Parc André-Corbeil-dit-Tranchemontagne, à la hauteur de 28e av. et boul. Gouin O.",Rivière-des-Prairies-Pointe-aux-Trembles,45.64533814,-73.59647096,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-460,Parc Moulin-du-Rapide,"Parc Moulin-du-Rapide, à la hauteur de 58e av. et de Clichy",Rivière-des-Prairies-Pointe-aux-Trembles,45.66060357,-73.57306308,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-480,Parc du Cheval-Blanc,"Parc du Cheval-Blanc, à l'est de 68e av., à la hauteur de Gouin O.",Rivière-des-Prairies-Pointe-aux-Trembles,45.66339099,-73.5628566,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-490,Parc des Cageux,"Parc des Cageux, à la hauteur de la 94e av. et boul. Gouin O.",Rivière-des-Prairies-Pointe-aux-Trembles,45.67596973,-73.53730969,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+RDP-500,P-N de la Pointe-aux-Prairies,"Rivière-des-Prairies / Pointe-aux-Trembles, 200m au nord de l'intersection du boul. Gouin et la rue Mathieu-de-Costa",Rivière-des-Prairies-Pointe-aux-Trembles,45.68133523,-73.53288599,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+RDP-520,Pont Charles-de Gaulle,"Pont Charles-De-Gaulle, à la hauteur de l'aut. 40 et boul. Gouin O.",Rivière-des-Prairies-Pointe-aux-Trembles,45.6991652,-73.50868305,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-540,Parc Gouin (Haynes),"Parc Gouin (Haynes), à la hauteur de la 133e av. et boul. Gouin",Rivière-des-Prairies-Pointe-aux-Trembles,45.69748675,-73.49815912,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-550,ex-Marina Clément,"Rivière-des-Prairies / Pointe-aux-Trembles, 100m au nord-ouest de l'intersection de l'av. 100e et de la rue Notre-Dame.",Rivière-des-Prairies-Pointe-aux-Trembles,45.70125274,-73.48475296,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+RDP-560,Parc du Bout-de-l'Île (RDP),"Parc du Bout-de-l'Île (côté rivière), à la hauteur de la rue Bureau et de 101e av.",Rivière-des-Prairies-Pointe-aux-Trembles,45.70242504,-73.47868988,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-60,P-N Anse-à-l'Orme,"Parc-Nature de l'Anse à l'Orme,à la hauteur du boul. Gouin et à l'est de rue Lauzon",Pierrefonds-Roxboro,45.45382728,-73.93879898,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-70,P-N du Cap-Saint-Jacques,"Pierrefonds-Roxboro, près de la rue Charlebois et du chemin du Cap Saint-Jacques, Parc-nature du Cap Saint-Jacques, centre de la plage.",Pierrefonds-Roxboro,45.46169251,-73.94176464,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+RDP-75,P-N Cap-Saint-Jacques,"Parc-Nature du Cap-Saint-Jacques, à la rampe de mise à l'eau, à la hauteur de la rue Pilon et du boul. Gouin",Pierrefonds-Roxboro,45.46276827,-73.91847816,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+RDP-77,Rue Coursol,"Pierrefonds-Roxboro, 100m au nord-ouest de l'intersection des rues Coursol et River.",Pierrefonds-Roxboro,45.46663903,-73.8918197,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+RDP-80,Parc Hélène-Legault,"Parc Hélène-Legault, à la hauteur des rues des Cageux et Hélène",Pierrefonds-Roxboro,45.46866288,-73.88858837,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RDP-95,Parc Julie-Dauth,"Pierrefonds / Roxboro, Parc Julie-Dauth,à la hauteur de la rue Julie et du boul. Gouin",Pierrefonds-Roxboro,45.47100886,-73.88353974,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
